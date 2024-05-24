@@ -1,5 +1,5 @@
 # NumPair
-<img src="logo.png" alt="Logo" height="300">
+<img src="https://raw.githubusercontent.com/vishnuagbly/num_pair/master/logo.png" alt="Logo" height="300">
 
 **NumPair** is an essential Dart package that revolutionizes how you handle numerical values in Flutter! Convert any pair of numbers into a versatile `NumPair` class and perform an array of powerful matrix and vector operations effortlessly. Designed to supercharge your Flutter projects, NumPair offers seamless conversions and a robust, intuitive API that simplifies your code and boosts your productivity.
 
