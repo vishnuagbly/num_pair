@@ -1,6 +1,6 @@
 name: num_pair
 description: "Revolutionize your Flutter projects with seamless number pair conversions and powerful matrix/vector operations!"
-version: 0.0.1
+version: 0.0.1+1
 repository: https://github.com/vishnuagbly/num_pair
 
 environment:
